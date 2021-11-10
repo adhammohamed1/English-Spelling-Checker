@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1622975602 source:c:\users\drogo\desktop\projects\c  projects\spell checking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623719299 source:c:\users\mohamed farid\desktop\spell checking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623722522 source:c:\users\mohamed farid\desktop\die deutschen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1623723289 source:c:\users\drogo\desktop\spelling check  (bst)\die deutschen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
