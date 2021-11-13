@@ -1,5 +1,7 @@
 # Spell Checking System
  System to check spelling mistakes using BST implementation in C
+ 
+ The system utilizes the predecessor and successor of a corresponding node to a given word in a BST
 
 The dictionary file used in the system: [EN-US-Dictionary.txt](https://github.com/adhammohamed1/English-Spelling-Checker/files/7531983/EN-US-Dictionary.txt)
 
